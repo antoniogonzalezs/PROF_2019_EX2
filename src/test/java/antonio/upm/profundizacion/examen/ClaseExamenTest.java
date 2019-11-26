@@ -49,7 +49,7 @@ public class ClaseExamenTest {
 	@Test
 	/**
 	 * Prueba la descomposicion para el numero 25.
-	 * Resultado esperado -> {5}
+	 * Resultado esperado -> {5,5}
 	 */
 	public void descomposicion_num25() {
 		List<Integer> resultado_descomposicion_num25 = new ArrayList<Integer>();
